@@ -139,3 +139,22 @@ body {
     border-radius: 8px;
     margin-top: 10px;
   }
+/* Search */
+.rounded-custom {
+  border-radius: 30px; 
+}
+.STID{
+  background-color: #d4bdbd;
+}
+.student-card .img-fluid {
+  padding-top: 40px; 
+  padding-left: 25px; 
+ 
+}
+@media (max-width: 768px) {
+  .student-card .img-fluid {
+    padding-top: 0px; 
+    padding-left: 0px; 
+   
+  }
+}
